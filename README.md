@@ -10,7 +10,7 @@ Here is the story: You just started a freelancing software company: Creative/Inc
 Ps, a big thank you to my friend Matt from (www.frontendmentor.io) for providing the design files and inspiration for this challenge. 
 
 ## Coding Challenge Submissions
-The wonderful submissions from some of the Zero-to-Mastery students on the eighth coding challenge. I have included their Discord handle name so you can talk to them about their submissions!
+The wonderful submissions from some of the Zero-to-Mastery students on the eleventh coding challenge. I have included their Discord handle name so you can talk to them about their submissions!
 
 Dremmons#0340  
 https://nurmsalu.github.io/codingchallenge11/  
